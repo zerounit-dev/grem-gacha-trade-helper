@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2026-02-28
 // @description  optimize grem gacha trade experience
-// @author       herounit
+// @author       zerounit-dev
 // @match        https://gremgacha.club/*
 // @match        https://www.gremgacha.club/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
